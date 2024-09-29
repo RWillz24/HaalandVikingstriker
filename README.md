@@ -12,3 +12,15 @@ Number row characters
 
 :smiley::smiley:City
 :anger::angry:Arsenal
+
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Alt-F4 (Closes programs)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Win-D (show desktop) - This is a great one, going to start using this daily.
+- Ctrl-Z (undo)
